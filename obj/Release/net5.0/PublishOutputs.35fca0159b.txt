@@ -1,0 +1,15 @@
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\RSD-2-API.exe
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\appsettings.Development.json
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\appsettings.json
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\RSD-2-API.dll
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\RSD-2-API.deps.json
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\RSD-2-API.runtimeconfig.json
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\RSD-2-API.pdb
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\Dapper.dll
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\Dapper.Contrib.dll
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\Newtonsoft.Json.dll
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\Npgsql.dll
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lukin\Documents\git\RSD-2\RSD-2-API\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
